@@ -42,9 +42,9 @@ Eliel David Novelo Cahum
 Wilbert Jesús Del Valle Sierra
 Marco Mauricio Wan Martínez
 ```
-#### Actividad 3.3: 
+#### Actividad 4.2: 
 ```
-Software Demostrativo
+Bitcora de ejercicios
 ```
 #### Fecha de entrega:  
 ```
